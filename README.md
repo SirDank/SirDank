@@ -1,3 +1,7 @@
+### SirDank at your service.
+
+Discord: https://discord.com/invite/jqj7CFx
+
 ### Stats
 ![](https://komarev.com/ghpvc/?username=SirDankenstien&color=blueviolet)
 
