@@ -1,9 +1,28 @@
-### SirDank at your service.
+<p align='center'>
+  <b>~ SirDank, at your service ~</b><br>
+  -----]| <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |[-----
+</p>
 
-- Discord: https://discord.com/invite/jqj7CFx
+<p align="center"><br>
+  <a href="https://github.com/SirDankenstien">
+    <img src="https://lanyard-profile-readme.vercel.app/api/761467343427207169"/>
+     </a>
+</p>
 
-### Stats
-- ![](https://komarev.com/ghpvc/?username=SirDankenstien&color=blueviolet)
+<p align="center">
+  <br>
+	<b>~ My Github Stats ~</b><br><br>
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=SirDankenstien&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=SirDankenstien&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirDankenstien&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+</p>
+<p>&nbsp;</p>    
 
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirDankenstien&layout=compact&theme=dark" /><br>
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=SirDankenstien&show_icons=true&theme=dark" />
+---  
+
+<p align="center">
+  <b>~ Visits ~</b><br><br>
+  <img src="https://profile-counter.glitch.me/SirDankenstien/count.svg" />
+</p>
