@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/SirDankenstien">
+  <a href="https://github.com/SirDank">
     <img src="https://lanyard-profile-readme.vercel.app/api/761467343427207169"/>
      </a>
 </p>
@@ -12,11 +12,11 @@
 <p align="center">
   <br>
 	<b>~ My Github Stats ~</b><br><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=SirDankenstien&theme=dark&hide_border=true">
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=SirDank&theme=dark&hide_border=true">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=SirDankenstien&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api?username=SirDank&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirDankenstien&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirDank&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
 <p>&nbsp;</p>    
 
@@ -24,5 +24,5 @@
 
 <p align="center">
   <b>~ Visits ~</b><br><br>
-  <img src="https://profile-counter.glitch.me/SirDankenstien/count.svg" />
+  <img src="https://profile-counter.glitch.me/SirDank/count.svg" />
 </p>
