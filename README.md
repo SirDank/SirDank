@@ -1,6 +1,6 @@
 <p align='center'>
   <b>~ SirDank, at your service ~</b><br>
-  -----]| <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |[-----
+  -----]| <a href="https://discord.gg/M6rgcd6m2S">Discord</a> |[-----
 </p>
 
 <p align="center"><br>
