@@ -23,6 +23,13 @@
 ---  
 
 <p align="center">
+<img src="https://i.imgur.com/bXUYFpH.png">
+</p>
+<p>&nbsp;</p>    
+
+---  
+
+<p align="center">
   <b>~ Visits ~</b><br><br>
   <img src="https://profile-counter.glitch.me/SirDank/count.svg" />
 </p>
