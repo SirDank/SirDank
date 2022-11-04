@@ -33,3 +33,5 @@
   <b>~ Visits ~</b><br><br>
   <img src="https://profile-counter.glitch.me/SirDank/count.svg" />
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=52797753)
