@@ -18,16 +18,6 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirDank&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=midnight-purple">
 </p>
-<p>&nbsp;</p>    
-
----  
-
-<p align="center">
-<img src="https://i.imgur.com/bXUYFpH.png">
-</p>
-<p>&nbsp;</p>    
-
----  
 
 <p align="center">
   <b>~ Visits ~</b><br><br>
@@ -35,3 +25,11 @@
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=52797753)
+
+<p>&nbsp;</p>    
+
+---  
+
+<p align="center">
+<img src="https://i.imgur.com/bXUYFpH.png">
+</p>
