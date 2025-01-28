@@ -10,10 +10,8 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://lanyard-profile-readme.vercel.app/api/761467343427207169)<br/>
-![]()<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=SirDank&theme=highcontrast&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=SirDank&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SirDank&theme=radical&bg_color=000000&fire=FF0000&ring=FF0000&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SirDank&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![]()<br/>
 ![](https://profile-counter.glitch.me/SirDank/count.svg)
@@ -23,6 +21,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SirDank&limit=5&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&combine_all_yearly_contributions=true)
+
+## 👀 Live Activity
+![](https://lanyard-profile-readme.vercel.app/api/761467343427207169)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SirDank&icon=5&color=4)](https://visitcount.itsvg.in)
