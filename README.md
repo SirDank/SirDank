@@ -28,7 +28,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SirDank&icon=5&color=4)](https://visitcount.itsvg.in)
 ![](https://hit.yhype.me/github/profile?user_id=52797753)
-
-<p align="center">
-<img src="https://i.imgur.com/bXUYFpH.png">
-</p>
